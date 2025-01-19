@@ -10,6 +10,8 @@
         ".idea",
         ".vscode"
     ],
-    "file_ignore_patterns": [],
+    "file_ignore_patterns": [
+        "*.test.js"
+    ],
     "custom_filetypes": []
 }
